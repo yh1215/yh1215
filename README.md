@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chris liu
-- 👀 I’m interested in Machine Learning/Deep Learning 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Python/ETL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yihualiu66@gmail.com
 
